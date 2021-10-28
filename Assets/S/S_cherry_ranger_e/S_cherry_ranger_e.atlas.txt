@@ -1,0 +1,293 @@
+
+S_cherry_ranger_e.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_arm_L
+  rotate: true
+  xy: 1202, 177
+  size: 79, 51
+  orig: 79, 51
+  offset: 0, 0
+  index: -1
+B_arm_R
+  rotate: false
+  xy: 1152, 173
+  size: 50, 83
+  orig: 50, 83
+  offset: 0, 0
+  index: -1
+B_body
+  rotate: true
+  xy: 343, 0
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+B_cloth
+  rotate: true
+  xy: 727, 7
+  size: 111, 65
+  orig: 111, 65
+  offset: 0, 0
+  index: -1
+B_eye
+  rotate: false
+  xy: 147, 3
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+B_eyelash
+  rotate: false
+  xy: 1142, 16
+  size: 56, 23
+  orig: 56, 23
+  offset: 0, 0
+  index: -1
+B_eyelash_under
+  rotate: false
+  xy: 0, 5
+  size: 47, 14
+  orig: 47, 14
+  offset: 0, 0
+  index: -1
+B_glass
+  rotate: true
+  xy: 947, 19
+  size: 102, 51
+  orig: 102, 51
+  offset: 0, 0
+  index: -1
+B_hand_L
+  rotate: false
+  xy: 1192, 133
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+B_head
+  rotate: true
+  xy: 1023, 125
+  size: 131, 129
+  orig: 131, 129
+  offset: 0, 0
+  index: -1
+B_leg_L
+  rotate: true
+  xy: 998, 2
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+B_leg_R
+  rotate: true
+  xy: 1046, 2
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+B_weapon_1
+  rotate: false
+  xy: 473, 0
+  size: 109, 100
+  orig: 109, 100
+  offset: 0, 0
+  index: -1
+B_weapon_2
+  rotate: true
+  xy: 194, 56
+  size: 200, 138
+  orig: 200, 138
+  offset: 0, 0
+  index: -1
+arm_L
+  rotate: true
+  xy: 424, 2
+  size: 80, 49
+  orig: 80, 49
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 1168, 49
+  size: 50, 83
+  orig: 50, 83
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: true
+  xy: 147, 30
+  size: 226, 47
+  orig: 227, 48
+  offset: 1, 1
+  index: -1
+b_glass_fx
+  rotate: true
+  xy: 727, 118
+  size: 138, 106
+  orig: 138, 106
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 271, 0
+  size: 72, 56
+  orig: 72, 56
+  offset: 0, 0
+  index: -1
+cloth_1
+  rotate: false
+  xy: 792, 8
+  size: 35, 110
+  orig: 35, 110
+  offset: 0, 0
+  index: -1
+cloth_2
+  rotate: true
+  xy: 191, 6
+  size: 24, 80
+  orig: 24, 80
+  offset: 0, 0
+  index: -1
+cloth_3
+  rotate: true
+  xy: 864, 14
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1
+coat_1
+  rotate: true
+  xy: 1091, 39
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+coat_2
+  rotate: false
+  xy: 1218, 62
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+coat_back
+  rotate: false
+  xy: 596, 118
+  size: 131, 138
+  orig: 131, 138
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 194, 32
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+eyelash
+  rotate: true
+  xy: 1071, 37
+  size: 88, 20
+  orig: 88, 20
+  offset: 0, 0
+  index: -1
+eyelash_under
+  rotate: false
+  xy: 47, 8
+  size: 78, 11
+  orig: 78, 11
+  offset: 0, 0
+  index: -1
+glass
+  rotate: true
+  xy: 648, 0
+  size: 118, 45
+  orig: 118, 45
+  offset: 0, 0
+  index: -1
+glass_fx
+  rotate: true
+  xy: 693, 0
+  size: 118, 34
+  orig: 118, 34
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1152, 132
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 446, 100
+  size: 156, 150
+  orig: 156, 150
+  offset: 0, 0
+  index: -1
+headset
+  rotate: true
+  xy: 332, 82
+  size: 174, 114
+  orig: 174, 114
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 1094, 15
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 1094, 15
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 833, 118
+  size: 138, 62
+  orig: 138, 62
+  offset: 0, 0
+  index: -1
+top
+  rotate: true
+  xy: 998, 26
+  size: 95, 73
+  orig: 95, 73
+  offset: 0, 0
+  index: -1
+top2
+  rotate: false
+  xy: 827, 9
+  size: 37, 109
+  orig: 37, 109
+  offset: 0, 0
+  index: -1
+top_back
+  rotate: false
+  xy: 582, 3
+  size: 66, 97
+  orig: 66, 97
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 895, 121
+  size: 128, 135
+  orig: 128, 135
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: true
+  xy: 0, 19
+  size: 237, 147
+  orig: 237, 147
+  offset: 0, 0
+  index: -1

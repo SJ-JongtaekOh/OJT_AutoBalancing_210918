@@ -1,0 +1,76 @@
+
+C_potato_tanker_e.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 2, 703
+  size: 142, 227
+  orig: 144, 229
+  offset: 1, 1
+  index: -1
+arm_R
+  rotate: true
+  xy: 231, 617
+  size: 228, 195
+  orig: 230, 197
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 428, 521
+  size: 375, 223
+  orig: 375, 223
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 2, 851
+  size: 223, 18
+  orig: 226, 20
+  offset: 1, 1
+  index: -1
+eye 2
+  rotate: false
+  xy: 227, 847
+  size: 220, 22
+  orig: 222, 24
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 422, 2
+  size: 517, 549
+  orig: 517, 549
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 449, 755
+  size: 114, 124
+  orig: 116, 126
+  offset: 1, 1
+  index: -1
+leg_R
+  rotate: true
+  xy: 575, 755
+  size: 114, 124
+  orig: 116, 126
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 701, 746
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 198
+  size: 418, 417
+  orig: 420, 419
+  offset: 1, 1
+  index: -1

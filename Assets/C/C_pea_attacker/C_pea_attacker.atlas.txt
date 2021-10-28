@@ -1,0 +1,55 @@
+
+C_pea_attacker.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 337, 336
+  size: 102, 153
+  orig: 104, 155
+  offset: 1, 1
+  index: -1
+arm_R
+  rotate: true
+  xy: 174, 345
+  size: 93, 161
+  orig: 95, 163
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 428, 2
+  size: 311, 334
+  orig: 311, 334
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 88, 388
+  size: 50, 84
+  orig: 52, 86
+  offset: 1, 1
+  index: -1
+leg_R
+  rotate: true
+  xy: 2, 389
+  size: 49, 84
+  orig: 51, 86
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 492, 315
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 101
+  size: 424, 233
+  orig: 426, 235
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,55 @@
+
+B_broccoli_attacker.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 918, 127
+  size: 83, 152
+  orig: 89, 154
+  offset: 5, 1
+  index: -1
+arm_R
+  rotate: false
+  xy: 918, 281
+  size: 93, 161
+  orig: 95, 163
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 456, 440
+  orig: 456, 440
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 738, 133
+  size: 49, 84
+  orig: 51, 86
+  offset: 1, 1
+  index: -1
+leg_R
+  rotate: false
+  xy: 738, 133
+  size: 49, 84
+  orig: 51, 86
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 460, 94
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 460, 219
+  size: 456, 223
+  orig: 458, 225
+  offset: 1, 1
+  index: -1

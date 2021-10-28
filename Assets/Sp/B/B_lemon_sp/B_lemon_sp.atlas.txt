@@ -1,0 +1,181 @@
+
+B_lemon_sp.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 238, 2
+  size: 104, 61
+  orig: 104, 61
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 314, 310
+  size: 75, 108
+  orig: 75, 108
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 83, 10
+  size: 144, 153
+  orig: 144, 153
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 62, 52
+  size: 19, 19
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+eyelid_A
+  rotate: true
+  xy: 327, 155
+  size: 71, 75
+  orig: 73, 77
+  offset: 1, 1
+  index: -1
+eyelid_B
+  rotate: true
+  xy: 404, 171
+  size: 67, 35
+  orig: 69, 37
+  offset: 1, 1
+  index: -1
+flask
+  rotate: false
+  xy: 83, 156
+  size: 148, 293
+  orig: 150, 295
+  offset: 1, 1
+  index: -1
+gun
+  rotate: false
+  xy: 352, 420
+  size: 150, 102
+  orig: 152, 104
+  offset: 1, 1
+  index: -1
+hair
+  rotate: true
+  xy: 270, 764
+  size: 258, 209
+  orig: 258, 209
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 352, 524
+  size: 238, 148
+  orig: 240, 150
+  offset: 1, 1
+  index: -1
+hand_L
+  rotate: true
+  xy: 2, 2
+  size: 69, 58
+  orig: 71, 60
+  offset: 1, 1
+  index: -1
+hand_R
+  rotate: false
+  xy: 326, 76
+  size: 74, 77
+  orig: 76, 79
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 759
+  size: 266, 263
+  orig: 266, 263
+  offset: 0, 0
+  index: -1
+hose
+  rotate: true
+  xy: 2, 73
+  size: 376, 79
+  orig: 376, 79
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 391, 321
+  size: 65, 97
+  orig: 65, 97
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 391, 321
+  size: 65, 97
+  orig: 65, 97
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 403, 240
+  size: 79, 39
+  orig: 81, 41
+  offset: 1, 1
+  index: -1
+poison1_fx
+  rotate: true
+  xy: 233, 169
+  size: 108, 92
+  orig: 108, 92
+  offset: 0, 0
+  index: -1
+poison2_fx
+  rotate: false
+  xy: 344, 14
+  size: 53, 60
+  orig: 56, 62
+  offset: 1, 1
+  index: -1
+poisontank
+  rotate: false
+  xy: 2, 451
+  size: 223, 306
+  orig: 225, 308
+  offset: 1, 1
+  index: -1
+poisontank2
+  rotate: false
+  xy: 327, 228
+  size: 74, 80
+  orig: 74, 80
+  offset: 0, 0
+  index: -1
+sclera
+  rotate: true
+  xy: 238, 65
+  size: 102, 86
+  orig: 104, 88
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 227, 481
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: true
+  xy: 233, 279
+  size: 200, 79
+  orig: 202, 81
+  offset: 1, 1
+  index: -1
+weapon2
+  rotate: true
+  xy: 458, 325
+  size: 93, 45
+  orig: 95, 47
+  offset: 1, 1
+  index: -1

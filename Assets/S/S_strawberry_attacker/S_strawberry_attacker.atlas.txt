@@ -1,0 +1,139 @@
+
+S_strawberry_attacker.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 201, 82
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+arm_L_2
+  rotate: false
+  xy: 292, 102
+  size: 96, 47
+  orig: 96, 47
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 325, 17
+  size: 45, 85
+  orig: 45, 85
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 125, 9
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 193, 132
+  size: 46, 14
+  orig: 46, 14
+  offset: 0, 0
+  index: -1
+eyelid
+  rotate: true
+  xy: 291, 0
+  size: 87, 34
+  orig: 87, 34
+  offset: 0, 0
+  index: -1
+flower
+  rotate: true
+  xy: 243, 87
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 193, 146
+  size: 110, 97
+  orig: 110, 97
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 290, 149
+  size: 103, 107
+  orig: 103, 107
+  offset: 0, 0
+  index: -1
+hand_L_1
+  rotate: true
+  xy: 370, 58
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+hand_L_2
+  rotate: false
+  xy: 164, 78
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 388, 109
+  size: 40, 31
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 75
+  size: 164, 181
+  orig: 164, 181
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 370, 25
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 370, 25
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 125, 3
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 153, 13
+  size: 138, 62
+  orig: 138, 62
+  offset: 0, 0
+  index: -1
+weapon_fork
+  rotate: true
+  xy: 164, 129
+  size: 127, 29
+  orig: 127, 29
+  offset: 0, 0
+  index: -1
+weapon_knife
+  rotate: false
+  xy: 0, 0
+  size: 125, 75
+  orig: 125, 75
+  offset: 0, 0
+  index: -1

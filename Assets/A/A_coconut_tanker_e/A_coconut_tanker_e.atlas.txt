@@ -1,0 +1,216 @@
+
+A_coconut_tanker_e.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 324, 136
+  size: 233, 363
+  orig: 233, 363
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 478, 661
+  size: 233, 361
+  orig: 233, 361
+  offset: 0, 0
+  index: -1
+armor
+  rotate: true
+  xy: 181, 87
+  size: 412, 141
+  orig: 414, 143
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 501
+  size: 474, 521
+  orig: 474, 521
+  offset: 0, 0
+  index: -1
+body_fx
+  rotate: true
+  xy: 684, 230
+  size: 273, 115
+  orig: 279, 121
+  offset: 3, 3
+  index: -1
+eye
+  rotate: false
+  xy: 314, 13
+  size: 181, 72
+  orig: 183, 74
+  offset: 1, 1
+  index: -1
+eye_fx_1
+  rotate: true
+  xy: 833, 69
+  size: 194, 84
+  orig: 206, 96
+  offset: 5, 6
+  index: -1
+eye_fx_2
+  rotate: true
+  xy: 833, 2
+  size: 65, 113
+  orig: 65, 114
+  offset: 0, 1
+  index: -1
+finger 1_L
+  rotate: false
+  xy: 559, 138
+  size: 57, 87
+  orig: 59, 89
+  offset: 1, 1
+  index: -1
+finger 1_R
+  rotate: true
+  xy: 948, 8
+  size: 61, 85
+  orig: 63, 87
+  offset: 1, 1
+  index: -1
+finger 2_L
+  rotate: true
+  xy: 81, 7
+  size: 49, 90
+  orig: 51, 92
+  offset: 1, 1
+  index: -1
+finger 2_R
+  rotate: true
+  xy: 713, 661
+  size: 56, 93
+  orig: 58, 95
+  offset: 1, 1
+  index: -1
+finger 3_L
+  rotate: true
+  xy: 2, 5
+  size: 51, 77
+  orig: 53, 79
+  offset: 1, 1
+  index: -1
+finger 3_R
+  rotate: true
+  xy: 173, 7
+  size: 49, 89
+  orig: 51, 91
+  offset: 1, 1
+  index: -1
+finger 4_R
+  rotate: false
+  xy: 264, 7
+  size: 48, 78
+  orig: 50, 80
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 2, 58
+  size: 441, 177
+  orig: 443, 179
+  offset: 1, 1
+  index: -1
+head_ac 1
+  rotate: true
+  xy: 497, 6
+  size: 128, 143
+  orig: 131, 145
+  offset: 2, 1
+  index: -1
+head_ac 2
+  rotate: false
+  xy: 1022, 126
+  size: 127, 189
+  orig: 127, 189
+  offset: 0, 0
+  index: -1
+head_ac 3
+  rotate: true
+  xy: 952, 511
+  size: 206, 91
+  orig: 206, 91
+  offset: 0, 0
+  index: -1
+head_ac 4
+  rotate: true
+  xy: 777, 507
+  size: 152, 173
+  orig: 152, 173
+  offset: 0, 0
+  index: -1
+head_ac 5
+  rotate: true
+  xy: 642, 5
+  size: 220, 103
+  orig: 220, 103
+  offset: 0, 0
+  index: -1
+head_ac 6
+  rotate: true
+  xy: 1035, 5
+  size: 119, 96
+  orig: 121, 98
+  offset: 1, 1
+  index: -1
+leg_L
+  rotate: false
+  xy: 969, 317
+  size: 100, 192
+  orig: 102, 194
+  offset: 1, 1
+  index: -1
+leg_R
+  rotate: false
+  xy: 919, 71
+  size: 101, 192
+  orig: 103, 194
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: false
+  xy: 324, 87
+  size: 42, 47
+  orig: 44, 49
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 559, 227
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+sholder_L
+  rotate: true
+  xy: 478, 505
+  size: 154, 297
+  orig: 156, 299
+  offset: 1, 1
+  index: -1
+sholder_R
+  rotate: false
+  xy: 713, 719
+  size: 287, 303
+  orig: 289, 305
+  offset: 1, 1
+  index: -1
+sholder_fx_L
+  rotate: false
+  xy: 747, 3
+  size: 84, 225
+  orig: 90, 231
+  offset: 3, 3
+  index: -1
+sholder_fx_R
+  rotate: false
+  xy: 801, 265
+  size: 166, 240
+  orig: 170, 245
+  offset: 2, 2
+  index: -1

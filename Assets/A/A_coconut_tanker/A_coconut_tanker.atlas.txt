@@ -1,0 +1,125 @@
+
+A_coconut_tanker.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 2, 5
+  size: 130, 279
+  orig: 130, 279
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 632, 230
+  size: 118, 280
+  orig: 118, 280
+  offset: 0, 0
+  index: -1
+armor
+  rotate: true
+  xy: 521, 174
+  size: 336, 109
+  orig: 338, 111
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 137
+  size: 368, 373
+  orig: 368, 373
+  offset: 0, 0
+  index: -1
+body_fx
+  rotate: true
+  xy: 678, 2
+  size: 176, 86
+  orig: 182, 91
+  offset: 2, 2
+  index: -1
+eye
+  rotate: false
+  xy: 632, 180
+  size: 147, 48
+  orig: 149, 50
+  offset: 1, 1
+  index: -1
+eye_fx
+  rotate: true
+  xy: 958, 70
+  size: 147, 48
+  orig: 149, 50
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 372, 168
+  size: 342, 147
+  orig: 344, 149
+  offset: 1, 1
+  index: -1
+head_straw
+  rotate: true
+  xy: 766, 7
+  size: 171, 123
+  orig: 173, 125
+  offset: 1, 1
+  index: -1
+leg_L
+  rotate: false
+  xy: 752, 239
+  size: 66, 162
+  orig: 68, 164
+  offset: 1, 1
+  index: -1
+leg_R
+  rotate: false
+  xy: 891, 55
+  size: 65, 162
+  orig: 67, 164
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: true
+  xy: 521, 137
+  size: 35, 38
+  orig: 37, 40
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 283, 12
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+sholder_L
+  rotate: false
+  xy: 561, 3
+  size: 115, 169
+  orig: 117, 171
+  offset: 1, 1
+  index: -1
+sholder_R
+  rotate: true
+  xy: 820, 219
+  size: 182, 199
+  orig: 184, 201
+  offset: 1, 1
+  index: -1
+sholder_fx_L
+  rotate: true
+  xy: 781, 450
+  size: 60, 100
+  orig: 66, 107
+  offset: 3, 4
+  index: -1
+sholder_fx_R
+  rotate: true
+  xy: 891, 403
+  size: 107, 121
+  orig: 111, 126
+  offset: 2, 2
+  index: -1

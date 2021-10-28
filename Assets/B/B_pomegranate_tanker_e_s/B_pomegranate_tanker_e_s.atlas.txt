@@ -1,0 +1,41 @@
+
+B_pomegranate_tanker_e_s.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baby_L
+  rotate: false
+  xy: 399, 28
+  size: 148, 215
+  orig: 148, 215
+  offset: 0, 0
+  index: -1
+baby_arm_L
+  rotate: true
+  xy: 280, 21
+  size: 104, 55
+  orig: 106, 57
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: true
+  xy: 2, 127
+  size: 116, 367
+  orig: 118, 369
+  offset: 1, 1
+  index: -1
+weapon_fx_L
+  rotate: false
+  xy: 337, 46
+  size: 60, 79
+  orig: 62, 81
+  offset: 1, 1
+  index: -1

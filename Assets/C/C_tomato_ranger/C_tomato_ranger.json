@@ -1,0 +1,40 @@
+{ "skeleton": { "images": "C:/Users/JamJamEdu/Desktop/work/Las Vegas/character/C/C_tomato_ranger/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "arm_L", "bone": "root", "attachment": "arm_L" },
+	{ "name": "leg_L", "bone": "root", "attachment": "leg_L" },
+	{ "name": "leg_R", "bone": "root", "attachment": "leg_R" },
+	{ "name": "weapon 2", "bone": "root", "attachment": "weapon 2" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "weapon", "bone": "root", "attachment": "weapon" },
+	{ "name": "arm_R", "bone": "root", "attachment": "arm_R" }
+],
+"skins": {
+	"default": {
+		"arm_L": {
+			"arm_L": { "x": 123, "y": -361, "width": 100, "height": 158 }
+		},
+		"leg_L": {
+			"leg_L": { "x": 232.5, "y": -413.5, "width": 59, "height": 101 }
+		},
+		"leg_R": {
+			"leg_R": { "x": 321.5, "y": -413.5, "width": 59, "height": 101 }
+		},
+		"weapon 2": {
+			"weapon 2": { "x": 430, "y": -230.5, "width": 210, "height": 379 }
+		},
+		"body": {
+			"body": { "x": 306.5, "y": -259, "width": 369, "height": 352 }
+		},
+		"weapon": {
+			"weapon": { "x": 283.5, "y": -398, "width": 401, "height": 104 }
+		},
+		"arm_R": {
+			"arm_R": { "x": 380, "y": -363, "width": 96, "height": 162 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

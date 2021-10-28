@@ -1,0 +1,118 @@
+
+C_garlic_sp.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 2, 2
+  size: 131, 139
+  orig: 131, 139
+  offset: 0, 0
+  index: -1
+arm_L_back
+  rotate: true
+  xy: 362, 36
+  size: 80, 139
+  orig: 80, 139
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 760, 151
+  size: 299, 261
+  orig: 299, 261
+  offset: 0, 0
+  index: -1
+fx 1
+  rotate: true
+  xy: 280, 216
+  size: 72, 86
+  orig: 74, 88
+  offset: 1, 1
+  index: -1
+fx 2
+  rotate: false
+  xy: 503, 39
+  size: 133, 77
+  orig: 135, 79
+  offset: 1, 1
+  index: -1
+fx3
+  rotate: true
+  xy: 995, 115
+  size: 34, 26
+  orig: 36, 28
+  offset: 1, 1
+  index: -1
+fx4
+  rotate: true
+  xy: 638, 63
+  size: 53, 66
+  orig: 55, 68
+  offset: 1, 1
+  index: -1
+fx_base
+  rotate: false
+  xy: 2, 400
+  size: 391, 50
+  orig: 393, 52
+  offset: 1, 1
+  index: -1
+hair
+  rotate: false
+  xy: 280, 290
+  size: 110, 108
+  orig: 110, 108
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 183, 157
+  size: 116, 85
+  orig: 118, 87
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 395, 118
+  size: 332, 363
+  orig: 332, 363
+  offset: 0, 0
+  index: -1
+mustache
+  rotate: false
+  xy: 760, 14
+  size: 233, 135
+  orig: 233, 135
+  offset: 0, 0
+  index: -1
+mustache 2
+  rotate: true
+  xy: 183, 17
+  size: 138, 177
+  orig: 138, 177
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 270, 160
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 275
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 135
+  size: 179, 138
+  orig: 179, 138
+  offset: 0, 0
+  index: -1

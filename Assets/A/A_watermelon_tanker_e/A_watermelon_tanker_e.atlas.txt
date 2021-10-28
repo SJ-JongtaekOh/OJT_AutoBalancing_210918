@@ -1,0 +1,174 @@
+
+A_watermelon_tanker_e.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 924, 31
+  size: 243, 420
+  orig: 243, 420
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 722, 15
+  size: 200, 436
+  orig: 200, 436
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 35
+  size: 362, 176
+  orig: 362, 176
+  offset: 0, 0
+  index: -1
+body_fx 1
+  rotate: false
+  xy: 502, 34
+  size: 69, 71
+  orig: 73, 75
+  offset: 2, 2
+  index: -1
+body_fx 2
+  rotate: true
+  xy: 440, 27
+  size: 78, 60
+  orig: 83, 66
+  offset: 2, 3
+  index: -1
+eye
+  rotate: false
+  xy: 1354, 530
+  size: 43, 45
+  orig: 45, 47
+  offset: 1, 1
+  index: -1
+eyebrow
+  rotate: false
+  xy: 603, 405
+  size: 117, 46
+  orig: 119, 48
+  offset: 1, 1
+  index: -1
+eyelid
+  rotate: false
+  xy: 180, 6
+  size: 84, 99
+  orig: 86, 102
+  offset: 1, 2
+  index: -1
+glasses
+  rotate: true
+  xy: 1308, 577
+  size: 177, 154
+  orig: 179, 156
+  offset: 1, 1
+  index: -1
+glasses_fx
+  rotate: true
+  xy: 1308, 519
+  size: 56, 44
+  orig: 58, 46
+  offset: 1, 1
+  index: -1
+hair_L
+  rotate: false
+  xy: 385, 107
+  size: 183, 290
+  orig: 183, 290
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: false
+  xy: 1169, 244
+  size: 217, 249
+  orig: 217, 249
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 180, 107
+  size: 203, 290
+  orig: 203, 290
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: true
+  xy: 1166, 756
+  size: 262, 249
+  orig: 262, 249
+  offset: 0, 0
+  index: -1
+hair_S
+  rotate: true
+  xy: 1417, 854
+  size: 164, 160
+  orig: 166, 162
+  offset: 1, 1
+  index: -1
+hair_fx
+  rotate: true
+  xy: 573, 2
+  size: 117, 136
+  orig: 121, 140
+  offset: 2, 2
+  index: -1
+head
+  rotate: true
+  xy: 2, 399
+  size: 619, 599
+  orig: 619, 599
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 1339, 42
+  size: 167, 200
+  orig: 167, 200
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 1169, 42
+  size: 168, 200
+  orig: 168, 200
+  offset: 0, 0
+  index: -1
+mask_fx 1
+  rotate: true
+  xy: 1166, 495
+  size: 259, 140
+  orig: 266, 148
+  offset: 3, 4
+  index: -1
+mask_fx 2
+  rotate: true
+  xy: 377, 26
+  size: 79, 61
+  orig: 83, 67
+  offset: 2, 3
+  index: -1
+sclera
+  rotate: true
+  xy: 266, 7
+  size: 98, 109
+  orig: 100, 111
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 570, 121
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 603, 453
+  size: 561, 565
+  orig: 564, 568
+  offset: 2, 0
+  index: -1

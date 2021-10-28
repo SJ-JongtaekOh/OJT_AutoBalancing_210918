@@ -1,0 +1,55 @@
+
+C_carotte_attacker.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 416, 48
+  size: 115, 162
+  orig: 117, 164
+  offset: 1, 1
+  index: -1
+arm_R
+  rotate: false
+  xy: 580, 2
+  size: 93, 161
+  orig: 95, 163
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 2, 69
+  size: 331, 412
+  orig: 331, 412
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 675, 79
+  size: 49, 84
+  orig: 51, 86
+  offset: 1, 1
+  index: -1
+leg_R
+  rotate: false
+  xy: 675, 79
+  size: 49, 84
+  orig: 51, 86
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 735, 124
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 416, 165
+  size: 317, 235
+  orig: 319, 237
+  offset: 1, 1
+  index: -1

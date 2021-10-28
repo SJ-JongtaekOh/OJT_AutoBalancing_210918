@@ -1,0 +1,188 @@
+
+A_mangosteen_ranger_e.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm 2_R
+  rotate: true
+  xy: 707, 123
+  size: 120, 69
+  orig: 120, 69
+  offset: 0, 0
+  index: -1
+arm_L
+  rotate: true
+  xy: 518, 5
+  size: 115, 69
+  orig: 115, 69
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 1067, 145
+  size: 154, 164
+  orig: 154, 164
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1018, 311
+  size: 198, 143
+  orig: 200, 145
+  offset: 1, 1
+  index: -1
+head_fx_back
+  rotate: true
+  xy: 364, 219
+  size: 290, 190
+  orig: 292, 192
+  offset: 1, 1
+  index: -1
+head_fx_light
+  rotate: true
+  xy: 681, 245
+  size: 264, 194
+  orig: 264, 194
+  offset: 0, 0
+  index: -1
+head_glass
+  rotate: false
+  xy: 2, 107
+  size: 360, 402
+  orig: 362, 404
+  offset: 1, 1
+  index: -1
+head_glass_fx
+  rotate: false
+  xy: 2, 2
+  size: 174, 103
+  orig: 176, 105
+  offset: 1, 1
+  index: -1
+head_line fx 1
+  rotate: false
+  xy: 178, 2
+  size: 73, 103
+  orig: 77, 108
+  offset: 2, 2
+  index: -1
+head_line fx 2
+  rotate: true
+  xy: 1154, 55
+  size: 88, 65
+  orig: 93, 69
+  offset: 2, 2
+  index: -1
+head_line fx 3
+  rotate: true
+  xy: 1067, 54
+  size: 89, 85
+  orig: 93, 89
+  offset: 2, 2
+  index: -1
+head_top
+  rotate: true
+  xy: 919, 41
+  size: 230, 146
+  orig: 232, 148
+  offset: 1, 1
+  index: -1
+leg_L
+  rotate: true
+  xy: 364, 112
+  size: 105, 147
+  orig: 105, 147
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 369, 5
+  size: 105, 147
+  orig: 105, 147
+  offset: 0, 0
+  index: -1
+leg_fx
+  rotate: true
+  xy: 735, 36
+  size: 85, 29
+  orig: 89, 33
+  offset: 2, 2
+  index: -1
+leg_fx2
+  rotate: true
+  xy: 735, 36
+  size: 85, 29
+  orig: 89, 33
+  offset: 2, 2
+  index: -1
+shadow
+  rotate: true
+  xy: 556, 233
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+sholder_back
+  rotate: false
+  xy: 589, 9
+  size: 144, 111
+  orig: 146, 113
+  offset: 1, 1
+  index: -1
+weapon_L
+  rotate: true
+  xy: 778, 7
+  size: 236, 139
+  orig: 238, 141
+  offset: 1, 1
+  index: -1
+weapon_R
+  rotate: true
+  xy: 877, 273
+  size: 236, 139
+  orig: 238, 141
+  offset: 1, 1
+  index: -1
+weapon_back_L
+  rotate: true
+  xy: 253, 7
+  size: 98, 56
+  orig: 100, 58
+  offset: 1, 1
+  index: -1
+weapon_back_R
+  rotate: true
+  xy: 311, 7
+  size: 98, 56
+  orig: 100, 58
+  offset: 1, 1
+  index: -1
+weapon_fx 1_L
+  rotate: true
+  xy: 1067, 4
+  size: 48, 47
+  orig: 50, 49
+  offset: 1, 1
+  index: -1
+weapon_fx 1_R
+  rotate: true
+  xy: 1116, 4
+  size: 48, 47
+  orig: 50, 49
+  offset: 1, 1
+  index: -1
+weapon_fx 2_L
+  rotate: false
+  xy: 610, 136
+  size: 95, 95
+  orig: 97, 97
+  offset: 1, 1
+  index: -1
+weapon_fx 2_R
+  rotate: false
+  xy: 513, 122
+  size: 95, 95
+  orig: 97, 97
+  offset: 1, 1
+  index: -1

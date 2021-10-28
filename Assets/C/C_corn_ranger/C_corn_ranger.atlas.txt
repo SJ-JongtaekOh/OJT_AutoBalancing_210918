@@ -1,0 +1,83 @@
+
+C_corn_ranger.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 280, 3
+  size: 140, 122
+  orig: 140, 122
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 422, 34
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+corn
+  rotate: true
+  xy: 695, 396
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 695, 301
+  size: 75, 93
+  orig: 77, 95
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 2, 127
+  size: 371, 367
+  orig: 371, 367
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 371, 131
+  size: 49, 84
+  orig: 51, 86
+  offset: 1, 1
+  index: -1
+leg_R
+  rotate: true
+  xy: 371, 131
+  size: 49, 84
+  orig: 51, 86
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 371, 182
+  size: 169, 316
+  orig: 169, 316
+  offset: 0, 0
+  index: -1
+weapon_string
+  rotate: true
+  xy: 542, 200
+  size: 57, 225
+  orig: 57, 225
+  offset: 0, 0
+  index: -1
+weapon_string2
+  rotate: false
+  xy: 542, 259
+  size: 151, 239
+  orig: 152, 239
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+B_pomegranate_tanker_e.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 843, 7
+  size: 252, 123
+  orig: 252, 123
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 931, 272
+  size: 234, 142
+  orig: 234, 142
+  offset: 0, 0
+  index: -1
+baby_L
+  rotate: true
+  xy: 1097, 5
+  size: 148, 215
+  orig: 148, 215
+  offset: 0, 0
+  index: -1
+baby_R
+  rotate: true
+  xy: 934, 155
+  size: 115, 232
+  orig: 115, 232
+  offset: 0, 0
+  index: -1
+baby_arm_L
+  rotate: false
+  xy: 647, 143
+  size: 104, 55
+  orig: 106, 57
+  offset: 1, 1
+  index: -1
+baby_arm_R
+  rotate: true
+  xy: 1168, 184
+  size: 94, 42
+  orig: 96, 44
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 647, 200
+  size: 306, 157
+  orig: 306, 157
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 2
+  size: 504, 470
+  orig: 504, 470
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 1075, 280
+  size: 107, 122
+  orig: 109, 124
+  offset: 1, 1
+  index: -1
+leg_R
+  rotate: true
+  xy: 1193, 401
+  size: 105, 122
+  orig: 107, 124
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 806, 230
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: true
+  xy: 474, 14
+  size: 116, 367
+  orig: 118, 369
+  offset: 1, 1
+  index: -1
+weapon_R
+  rotate: false
+  xy: 474, 132
+  size: 171, 374
+  orig: 173, 376
+  offset: 1, 1
+  index: -1
+weapon_fx_L
+  rotate: true
+  xy: 753, 138
+  size: 60, 79
+  orig: 62, 81
+  offset: 1, 1
+  index: -1
+weapon_fx_R
+  rotate: true
+  xy: 1075, 389
+  size: 117, 116
+  orig: 119, 119
+  offset: 1, 1
+  index: -1
+whistle
+  rotate: true
+  xy: 834, 132
+  size: 96, 98
+  orig: 98, 100
+  offset: 1, 1
+  index: -1

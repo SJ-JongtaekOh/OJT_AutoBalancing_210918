@@ -1,0 +1,132 @@
+
+A_mangosteen_ranger.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 254, 24
+  size: 175, 69
+  orig: 175, 69
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 432, 3
+  size: 100, 199
+  orig: 100, 199
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 201
+  size: 309, 305
+  orig: 311, 307
+  offset: 1, 1
+  index: -1
+brain
+  rotate: true
+  xy: 540, 306
+  size: 204, 104
+  orig: 206, 106
+  offset: 1, 1
+  index: -1
+eye
+  rotate: false
+  xy: 396, 204
+  size: 117, 28
+  orig: 119, 30
+  offset: 1, 1
+  index: -1
+eyelid
+  rotate: true
+  xy: 588, 50
+  size: 153, 53
+  orig: 155, 55
+  offset: 1, 1
+  index: -1
+face
+  rotate: true
+  xy: 325, 2
+  size: 199, 105
+  orig: 201, 107
+  offset: 1, 1
+  index: -1
+face_fx
+  rotate: true
+  xy: 162, 13
+  size: 186, 90
+  orig: 188, 92
+  offset: 1, 1
+  index: -1
+hand_L
+  rotate: true
+  xy: 643, 96
+  size: 107, 98
+  orig: 109, 100
+  offset: 1, 1
+  index: -1
+head_top
+  rotate: true
+  xy: 434, 301
+  size: 209, 104
+  orig: 211, 106
+  offset: 1, 1
+  index: -1
+leg_L
+  rotate: true
+  xy: 515, 205
+  size: 94, 128
+  orig: 94, 128
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 515, 205
+  size: 94, 128
+  orig: 94, 128
+  offset: 0, 0
+  index: -1
+leg_fx
+  rotate: false
+  xy: 309, 203
+  size: 85, 29
+  orig: 89, 33
+  offset: 2, 2
+  index: -1
+leg_fx2
+  rotate: false
+  xy: 309, 203
+  size: 85, 29
+  orig: 89, 33
+  offset: 2, 2
+  index: -1
+sclera
+  rotate: true
+  xy: 534, 42
+  size: 161, 52
+  orig: 163, 54
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 309, 234
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 8
+  size: 191, 158
+  orig: 193, 160
+  offset: 1, 1
+  index: -1
+weapon_fx
+  rotate: false
+  xy: 643, 6
+  size: 88, 88
+  orig: 90, 90
+  offset: 1, 1
+  index: -1

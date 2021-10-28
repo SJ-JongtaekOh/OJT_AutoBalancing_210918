@@ -1,0 +1,90 @@
+
+A_aloe_sp.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 1207, 51
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+arm_R
+  rotate: false
+  xy: 1083, 31
+  size: 122, 128
+  orig: 124, 130
+  offset: 1, 1
+  index: -1
+arm_front_L
+  rotate: true
+  xy: 910, 27
+  size: 130, 171
+  orig: 130, 171
+  offset: 0, 0
+  index: -1
+arm_front_R
+  rotate: true
+  xy: 1317, 14
+  size: 201, 175
+  orig: 201, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1214, 217
+  size: 235, 293
+  orig: 235, 293
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 1451, 424
+  size: 79, 86
+  orig: 81, 88
+  offset: 1, 1
+  index: -1
+eyebrow
+  rotate: false
+  xy: 368, 41
+  size: 135, 19
+  orig: 137, 21
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 368, 62
+  size: 262, 448
+  orig: 264, 450
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 632, 34
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 2
+  size: 364, 508
+  orig: 366, 510
+  offset: 1, 1
+  index: -1
+wing_L
+  rotate: false
+  xy: 943, 161
+  size: 269, 349
+  orig: 269, 349
+  offset: 0, 0
+  index: -1
+wing_R
+  rotate: false
+  xy: 632, 159
+  size: 309, 351
+  orig: 309, 351
+  offset: 0, 0
+  index: -1

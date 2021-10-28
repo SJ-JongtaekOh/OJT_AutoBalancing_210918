@@ -1,0 +1,55 @@
+
+C_spinach_tanker.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 189, 14
+  size: 103, 188
+  orig: 105, 190
+  offset: 1, 1
+  index: -1
+arm_R
+  rotate: false
+  xy: 2, 9
+  size: 185, 108
+  orig: 187, 110
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 2, 119
+  size: 390, 546
+  orig: 390, 546
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 379, 2
+  size: 66, 115
+  orig: 68, 117
+  offset: 1, 1
+  index: -1
+leg_R
+  rotate: false
+  xy: 447, 2
+  size: 66, 115
+  orig: 68, 117
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 550, 29
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 550, 154
+  size: 355, 355
+  orig: 357, 357
+  offset: 1, 1
+  index: -1

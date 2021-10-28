@@ -1,0 +1,76 @@
+
+B_pomegranate_tanker.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 168, 293
+  size: 127, 71
+  orig: 129, 73
+  offset: 1, 1
+  index: -1
+arm_R
+  rotate: false
+  xy: 168, 422
+  size: 107, 185
+  orig: 109, 187
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 609
+  size: 373, 408
+  orig: 373, 408
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 241, 322
+  size: 57, 98
+  orig: 59, 100
+  offset: 1, 1
+  index: -1
+leg_L
+  rotate: false
+  xy: 168, 177
+  size: 66, 114
+  orig: 68, 116
+  offset: 1, 1
+  index: -1
+leg_R
+  rotate: false
+  xy: 236, 177
+  size: 66, 114
+  orig: 68, 116
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 43
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 168
+  size: 164, 439
+  orig: 164, 439
+  offset: 0, 0
+  index: -1
+weapon_band
+  rotate: true
+  xy: 2, 2
+  size: 39, 161
+  orig: 41, 163
+  offset: 1, 1
+  index: -1
+weapon_fx
+  rotate: true
+  xy: 280, 97
+  size: 78, 63
+  orig: 80, 65
+  offset: 1, 1
+  index: -1

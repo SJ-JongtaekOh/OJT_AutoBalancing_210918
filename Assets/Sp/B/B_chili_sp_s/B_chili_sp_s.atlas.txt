@@ -1,0 +1,27 @@
+
+B_chili_sp_s.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chili
+  rotate: true
+  xy: 105, 6
+  size: 148, 373
+  orig: 150, 375
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 480, 31
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+smoke_fx
+  rotate: true
+  xy: 2, 2
+  size: 152, 101
+  orig: 157, 102
+  offset: 0, 0
+  index: -1

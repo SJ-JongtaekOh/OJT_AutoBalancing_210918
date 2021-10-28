@@ -1,0 +1,97 @@
+
+C_corn_ranger_e.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 667, 55
+  size: 134, 135
+  orig: 134, 135
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 104, 13
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 496, 16
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+cap
+  rotate: true
+  xy: 2, 110
+  size: 386, 253
+  orig: 386, 253
+  offset: 0, 0
+  index: -1
+corn
+  rotate: true
+  xy: 2, 6
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 706, 277
+  size: 79, 94
+  orig: 81, 96
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 420, 192
+  size: 304, 284
+  orig: 304, 284
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 667, 2
+  size: 51, 86
+  orig: 51, 86
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 667, 2
+  size: 51, 86
+  orig: 51, 86
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 706, 373
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 257, 186
+  size: 161, 310
+  orig: 161, 310
+  offset: 0, 0
+  index: -1
+weapon_string
+  rotate: true
+  xy: 706, 194
+  size: 81, 223
+  orig: 81, 224
+  offset: 0, 1
+  index: -1
+weapon_string2
+  rotate: true
+  xy: 269, 5
+  size: 179, 225
+  orig: 179, 225
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{ "skeleton": { "images": "C:/Users/JamJamEdu/Desktop/work/Las Vegas/character/C/C_potato_tanker/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "leg_L", "bone": "root", "attachment": "leg_L" },
+	{ "name": "leg_R", "bone": "root", "attachment": "leg_R" },
+	{ "name": "arm_L", "bone": "root", "attachment": "arm_L" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "arm_R", "bone": "root", "attachment": "arm_R" },
+	{ "name": "weapon", "bone": "root", "attachment": "weapon" }
+],
+"skins": {
+	"default": {
+		"leg_L": {
+			"leg_L": { "x": 221.5, "y": -457.5, "width": 69, "height": 117 }
+		},
+		"leg_R": {
+			"leg_R": { "x": 323, "y": -457.5, "width": 68, "height": 117 }
+		},
+		"arm_L": {
+			"arm_L": { "x": 103.5, "y": -392.5, "width": 105, "height": 189 }
+		},
+		"body": {
+			"body": { "x": 274.5, "y": -267.5, "width": 359, "height": 453 }
+		},
+		"arm_R": {
+			"arm_R": { "x": 415.5, "y": -393, "width": 187, "height": 110 }
+		},
+		"weapon": {
+			"weapon": { "x": 415.5, "y": -385, "width": 217, "height": 216 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

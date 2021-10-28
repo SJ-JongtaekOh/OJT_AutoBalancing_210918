@@ -1,0 +1,125 @@
+
+A_cactus_sp.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 548, 594
+  size: 143, 129
+  orig: 143, 129
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 77, 310
+  size: 91, 155
+  orig: 91, 155
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 361, 546
+  size: 185, 177
+  orig: 185, 177
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 234, 304
+  size: 94, 22
+  orig: 96, 24
+  offset: 1, 1
+  index: -1
+eyelid
+  rotate: true
+  xy: 392, 62
+  size: 127, 43
+  orig: 129, 45
+  offset: 1, 1
+  index: -1
+hand_L
+  rotate: false
+  xy: 392, 191
+  size: 56, 59
+  orig: 58, 61
+  offset: 1, 1
+  index: -1
+hand_R
+  rotate: false
+  xy: 392, 252
+  size: 59, 59
+  orig: 61, 61
+  offset: 1, 1
+  index: -1
+hat
+  rotate: false
+  xy: 2, 28
+  size: 388, 273
+  orig: 388, 273
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 77, 511
+  size: 282, 212
+  orig: 282, 212
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 234, 328
+  size: 73, 108
+  orig: 73, 108
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 344, 313
+  size: 73, 108
+  orig: 73, 108
+  offset: 0, 0
+  index: -1
+lopes
+  rotate: false
+  xy: 2, 303
+  size: 73, 420
+  orig: 73, 420
+  offset: 0, 0
+  index: -1
+lopes_ring
+  rotate: false
+  xy: 361, 388
+  size: 283, 156
+  orig: 285, 158
+  offset: 1, 1
+  index: -1
+scarf
+  rotate: false
+  xy: 77, 403
+  size: 281, 106
+  orig: 281, 106
+  offset: 0, 0
+  index: -1
+sclera
+  rotate: false
+  xy: 548, 547
+  size: 132, 45
+  orig: 134, 47
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 454, 110
+  size: 276, 123
+  orig: 276, 123
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 437, 2
+  size: 106, 184
+  orig: 107, 184
+  offset: 1, 0
+  index: -1
